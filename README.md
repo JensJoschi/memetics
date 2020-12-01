@@ -1,1 +1,1 @@
-memetics
+This repository is currently a placeholder. It has one draft of a grant proposal (this is still in the making and some information has been redacted). Hopefully this repository will grow in the future
