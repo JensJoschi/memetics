@@ -2,26 +2,26 @@ Biological evolution and collective decision-making essentially describe the sam
 
 Table 1: Terms from evolutionary biology and analogies in decision-making in social groups  
 
-	|Evolution|Decision-making|
---------|---------|---------------|
-General terms|Recombination|Discussion|  
-	|Genetic variation|Mind maps|
-Cooperation|Inbreeding and outcrossing|Committee diversity|
-	|Sexual selection|Selection of team members|
-	|Reciprocal altruism|“tit-for-tat” strategies|
-	|Kin selection|Shared agendas/core beliefs |
-	|Multi-level selection, group selection|Profit sharing, gainsharing, team-based rewards|
-	|Cheating|Free-riding, social loafing|
-Individual level|Phenotypic plasticity|Creativity, intelligence|
-	|Bet-hedging|Risk aversion|  
+|   | Evolution | Decision-making |
+|---| --- | --- |
+| General terms | Recombination | Discussion |  
+| | Genetic variation | Mind maps|
+| Cooperation | Inbreeding and outcrossing | Committee diversity |
+| | Sexual selection | Selection of team members |
+| | Reciprocal altruism | “tit-for-tat” strategies |
+| | Kin selection | Shared agendas/core beliefs |
+| | Multi-level selection, group selection | Profit sharing, gainsharing, team-based rewards |
+| | Cheating | Free-riding, social loafing |
+| Individual level | Phenotypic plasticity | Creativity, intelligence |
+| | Bet-hedging | Risk aversion |  
 
 
-#Work program  
+# Work program  
 My work will revolve around four main topics, which are currently represented by different research disciplines (evolutionary biology, library sciences, sociology, psychology). First, I will study how parents invest in offspring phenotypes under unpredictable environmental conditions. Investment strategies include phenotypic plasticity, canalization and bet-hedging, and I will assess how the costs, benefits and constraints of these strategies, both on the individual and on the group level, affect the evolution of the “decision-making” process. Secondly, I will explain scientific progress with a memetic framework: the evolution of scientific concepts is the result of selection, recombination and differential citation of publications. In contrast to standard models of evolution, I will emphasize multi-level (group) selection processes, as publications represent meta-organisms in which authors and ideas differ in selective pressures (cooperation vs. selfish replication) despite shared fitness components. Thirdly, I will unite sexual selection theory, i.e. the evolutionary theory concerned with finding partners for information (DNA) exchange, with theories regarding the formation of social groups. Lastly, I will research the repercussions of dissent as one group-level cost of individual plasticity. I will focus on gifted (highly intelligent and creative) students, and assess how their extraordinary phenotypic plasticity affects social integration and subsequent academic success. This last work package hence links to the three other topics, while also forming the basis for my teaching commitment.  
 
 The work program is currently under development and will depend on the interest of collaboration partners. I attached a few research ideas on the next pages.
 
-#Specific ideas   
+# Specific ideas   
 **Costs and limits of bet-hedging and individual plasticity, group diversity and group-level plasticity**  
 
 Collective decisions and cooperation first require individual decisions. Phenotypic plasticity describes how a genotype may react to environmental conditions, and bet-hedging describes strategies to limit risk under uncertainty. Because no organism is infinitely plastic, it has been argued that there must be some costs and limits of plasticity, and I argue that similar reasoning should apply to bet-hedging and other strategies. Thus, I am currently expanding the framework on costs and limits of plasticity to those of bet-hedging strategies, arithmetic mean maximization and canalization. I have searched the Web of Science database for costs, constraints or limits of bet-hedging, plasticity and canalization, and found nearly 5000 search results. Concentrating on review and modelling papers, I currently review the costs and limits that are described to date, and integrate them in an individual-based model. As part of the proposal I plan to conduct a meta-analysis on the data papers to evaluate the empirical evidence for the theoretical cost and limit categories.  
@@ -58,7 +58,7 @@ I will use the results to explain the evolution of sex and cooperation, as well 
 
 This part of the proposal requires significant further investment, as I do not know enough about sociological models to see where sociological and evolutionary theories may clash.  
 
-[These benefits do not require genetic engineering; one could, for example, offer a reward based on concentrations of a metabolite after n generations]  
+[2] These benefits do not require genetic engineering; one could, for example, offer a reward based on concentrations of a metabolite after n generations  
 
 **Application: gifted education in university settings**  
 See also repository "intelligence".  
