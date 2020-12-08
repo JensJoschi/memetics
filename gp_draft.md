@@ -61,7 +61,7 @@ This part of the proposal requires significant further investment, as I do not k
 [2] These benefits do not require genetic engineering; one could, for example, offer a reward based on concentrations of a metabolite after n generations  
 
 **Application: gifted education in university settings**  
-See also repository "intelligence".  
+See also repository "intelligence", in particular https://github.com/JensJoschi/intelligence/raw/master/blog_post.docx.  
 
 One key finding of sexual selection theories is that unconventional phenotypes are often selected against, although they might indeed be better adapted to the environment (e.g. inconspicuous plumage). Similar mechanisms may be at work when choosing members of a group for cooperation: individuals that deviate from the norm and fail to carry the right signals may be excluded from the decision process, independent of their true potential to contribute. This form of “sexual” selection[3] may be one case in which group-level processes pose a cost to individual-level phenotypic plasticity (see WP 1, WP3). I will study the factors that allow integration of dissent, and how they can improve decision-making.  
 
